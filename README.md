@@ -4,6 +4,10 @@ Inspired by a [Goodreads review](https://www.goodreads.com/review/show/119537612
 
 Sorted alphabetically by course number.
 
+## CS103: Mathematical Foundations of Computing
+
+_Gödel, Escher, Bach_ by Douglas Hofstadter
+
 ## EE180: Digital Systems Architecture
 
 _The Soul of a New Machine_ by Tracy Kidder
