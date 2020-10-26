@@ -10,6 +10,26 @@ Sorted alphabetically by course number.
 
 _Gödel, Escher, Bach_ by Douglas Hofstadter
 
+## CS109: Introduction to Probability for Computer Scientists
+
+_Rosencrantz and Guildenstern are Dead_ by Tom Stoppard
+
+## CS140: Operating Systems
+
+_The Garden of Forking Paths_ by Jorge Luis Borges
+
+## CS198: Teaching Computer Science
+
+_Mindstorms_ by Seymour Papert
+
+## CS255: Introduction to Cryptography
+
+_Cryptonomicon_ by Neal Stephenson (fiction), or _Between Silk and Cyanide_ by Leo Marks (nonfiction)
+
 ## EE180: Digital Systems Architecture
 
 _The Soul of a New Machine_ by Tracy Kidder
+
+## PHYSICS110: Classical Mechanics
+
+_The Story of Your Life_ by Ted Chiang
