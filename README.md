@@ -33,3 +33,7 @@ _The Soul of a New Machine_ by Tracy Kidder
 ## PHYSICS110: Classical Mechanics
 
 _The Story of Your Life_ by Ted Chiang
+
+## PHYSICS112: Mathematical Methods for Physics (Chaos Theory)
+
+_Arcadia_ by Tom Stoppard
