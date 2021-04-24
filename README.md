@@ -30,6 +30,10 @@ _Cryptonomicon_ by Neal Stephenson (fiction), or _Between Silk and Cyanide_ by L
 
 _The Soul of a New Machine_ by Tracy Kidder
 
+## EE276: Information Theory
+
+_The Human Use of Human Beings_ by Norbert Wiener
+
 ## PHYSICS110: Classical Mechanics
 
 _The Story of Your Life_ by Ted Chiang
