@@ -17,6 +17,10 @@ _Gödel, Escher, Bach_ by Douglas Hofstadter
 
 _Rosencrantz and Guildenstern are Dead_ by Tom Stoppard
 
+### CS110: Principles of Computer Systems / CS111: Operating Systems Principles
+
+_The Bug_ by Ellen Ullman
+
 ### CS140: Operating Systems
 
 _The Garden of Forking Paths_ by Jorge Luis Borges
